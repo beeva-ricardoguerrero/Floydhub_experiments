@@ -1,0 +1,1 @@
+floyd run "python testing_external_dependencies.py" --env tensorflow-1.2:py2
